@@ -1,0 +1,39 @@
+        /* Add custom styles for the navbar */
+        .navbar {
+            background-color: #333; /* Change the background color as needed */
+            overflow: hidden;
+        }
+        
+        /* Style the navbar links */
+        .navbar a {
+            float: left;
+            font-size: 16px;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        
+        /* Style the active navbar link */
+        .navbar a.active {
+            background-color: rgb(24, 175, 181); /* Change the background color for the active link */
+            color: black; /* Change the text color for the active link */
+        }
+
+        /* On hover, the links will change color */
+        .navbar a:hover {
+            background-color: #ddd; /* Change the background color on hover */
+            color: black; /* Change the text color on hover */
+        }
+
+        /* Add custom styles for the image container */
+        .image-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        /* Style the image */
+        .content-image {
+            max-width: 100%;
+            height: auto;
+        }

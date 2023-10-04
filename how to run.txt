@@ -1,0 +1,11 @@
+Notice:
+	create your own database Mysql credentials
+
+1.) Activate the environment:
+		myenv\Scripts\activate
+
+2.) To run the server:
+		python server.py   
+		
+	
+	
